@@ -1,0 +1,17 @@
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/obj/Debug/net9.0/readingData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/obj/Debug/net9.0/readingData.AssemblyInfoInputs.cache
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/obj/Debug/net9.0/readingData.AssemblyInfo.cs
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/obj/Debug/net9.0/readingData.csproj.CoreCompileInputs.cache
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/bin/Debug/net9.0/readingData
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/bin/Debug/net9.0/readingData.deps.json
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/bin/Debug/net9.0/readingData.runtimeconfig.json
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/bin/Debug/net9.0/readingData.dll
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/bin/Debug/net9.0/readingData.pdb
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/obj/Debug/net9.0/readingData.dll
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/obj/Debug/net9.0/refint/readingData.dll
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/obj/Debug/net9.0/readingData.pdb
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/obj/Debug/net9.0/readingData.genruntimeconfig.cache
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/obj/Debug/net9.0/ref/readingData.dll
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/obj/Debug/net9.0/readingData.csproj.AssemblyReference.cache
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/bin/Debug/net9.0/CsvHelper.dll
+/Users/ayaanahmed/Documents/CsharpProjects/readingData/obj/Debug/net9.0/readingD.D458391E.Up2Date

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/KyPuSo2/s=",
+  "success": true,
+  "projectFilePath": "/Users/ayaanahmed/Documents/CsharpProjects/readingData/readingData.csproj",
+  "expectedPackageFiles": [
+    "/Users/ayaanahmed/.nuget/packages/csvhelper/33.1.0/csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
